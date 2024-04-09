@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleRedis", "SimpleRedis\SimpleRedis.csproj", "{715D7A3A-23E2-4C6E-BEA0-A4295D71B8EE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{715D7A3A-23E2-4C6E-BEA0-A4295D71B8EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{715D7A3A-23E2-4C6E-BEA0-A4295D71B8EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{715D7A3A-23E2-4C6E-BEA0-A4295D71B8EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{715D7A3A-23E2-4C6E-BEA0-A4295D71B8EE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

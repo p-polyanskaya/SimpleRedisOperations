@@ -1,0 +1,71 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/polina/RiderProjects/SimpleRedis/SimpleRedis/SimpleRedis.csproj": {}
+  },
+  "projects": {
+    "/Users/polina/RiderProjects/SimpleRedis/SimpleRedis/SimpleRedis.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/polina/RiderProjects/SimpleRedis/SimpleRedis/SimpleRedis.csproj",
+        "projectName": "SimpleRedis",
+        "projectPath": "/Users/polina/RiderProjects/SimpleRedis/SimpleRedis/SimpleRedis.csproj",
+        "packagesPath": "/Users/polina/.nuget/packages/",
+        "outputPath": "/Users/polina/RiderProjects/SimpleRedis/SimpleRedis/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/polina/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            },
+            "StackExchange.Redis": {
+              "target": "Package",
+              "version": "[2.7.33, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/Users/polina/.vscode-dotnet-sdk/.dotnet/sdk/7.0.100/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
